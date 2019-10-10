@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">proyectoremg</string>
+    <string name="hola">TESOEM</string>
+
+    <string name="tes"></string>
+    <string name="lol"></string>
+    <string name="shen_frm_img"></string>
+    <string name="sion_frm_img"></string>
+    <string name="heca_frm_img"></string>
+    <string name="fiora_frm_img"></string>
+    <string name="maokai_frm_img"></string>
+    <string name="morde_frm_img"></string>
+    <string name="kennen_frm_img"></string>
+    <string name="keld_frm_img"></string>
+
+
+    <string name="nombre_alu">Martinez Granados Rene Edrai</string>
+    <string name="grupo">7s11</string>
+    <string name="ing">ing sistemas computacionales</string>
+    <string name="tema">league of legends</string>
+    <string name="menu_prin">menu principal</string>
+    <string name="btnshen">shen</string>
+    <string name="btnsion">sion</string>
+    <string name="shen_frm">shen lore</string>
+    <string name="shen_lore">Shen, líder de un clan secreto de guerreros místicos, es también el Ojo del Crepúsculo, pues se le ha confiado el deber de mantener el equilibrio en el mundo. Shen trabaja duro para mantenerse libre de las ataduras de cualquier emoción, prejuicio o ego, y avanza por el discreto camino del juicio desapasionado, siempre con su espada espiritual en mano.</string>
+    <string name="shenbtn_regresar">regresar</string>
+    <string name="sion_frm">Sion lore</string>
+    <string name="sion_lore">Sion, un héroe de guerra noxiano empapado de sangre de una época pasada, a Sion se le negó el olvido y se lo devolvió para que pueda seguir sirviendo al imperio incluso en la muerte. Un monstruo imparable, es desatado contra los enemigos de Noxus, aplastando a amigos y enemigos a un lado mientras se lanza al corazón de la masacre, atacando y matando a voluntad.
+
+Referencias</string>
+    <string name="sionbtn_regresar">regresar</string>
+    <string name="hecarim">hecarim</string>
+    <string name="fiora">fiora</string>
+    <string name="heca_frm">hecarim lore</string>
+    <string name="heca_lore">Hecarim es un coloso blindado que cabalga desde las Islas de la Sombra a la cabeza de una hueste de jinetes espectrales para dar caza a los vivos. Monstruoso híbrido de hombre y bestia condenado a cabalgar por toda la eternidad, goza matando y aplastando almas bajo sus cascos de acero.</string>
+    <string name="hecabtn_regresar">regresar</string>
+    <string name="fiora_frm">fiora lore</string>
+    <string name="fiora_lore">Fiora, la duelista más temida de Valoran, se hizo famosa por sus modales bruscos y su astucia, además de la rapidez y destreza con la que maneja su florete. Nacida en el seno de la Casa Laurent de Demacia, tomó el control de la familia de su padre en medio de un escándalo que casi los destruye. La reputación de la Casa Laurent quedó desquebrajada, pero Fiora pone todo su empeño para restaurar el honor de su familia y devolverla al lugar donde corresponde: en lo más alto de Demacia.</string>
+    <string name="fiorabtn_regresar"> regresar</string>
+    <string name="maokaiboton">maokai</string>
+    <string name="mordekaiserboton">mordekaiser</string>
+    <string name="maokai_frm">maokai lore</string>
+    <string name="maokai_lore">Maokai es un imponente y feroz treant que lucha contra los horrores antinaturales de las Islas de la Sombra. Las ansias de venganza lo inundaron después de que un Espada del Rey Arruinado objeto cataclismo mágico destruyera su hogar y sobrevive a la podredumbre únicamente gracias las aguas de vida imbuidas en su duramen. Maokai, antaño un pacífico espíritu de la naturaleza, lucha ahora con fiereza para desterrar la plaga de no-vida de las Islas de la Sombra y restituir la anterior belleza de su hogar.</string>
+    <string name="maokaibtn_regresar">regresar</string>
+    <string name="mordefrm">mordekaiser lore</string>
+    <string name="morde_lore">Asesinado dos veces y renacido tres, Mordekaiser es un señor de la guerra brutal de una época olvidada, quien usa su masa Grasp brujería nigromántica para atar almas a una esclavitud eterna. Quedan muy pocos que recuerden sus conquistas precedentes o que conozcan el verdadero alcance de sus poderes, pero las antiguas almas que lo hacen, temen que llegue el día en el que regrese para reclamar el dominio sobre vivos y muertos.</string>
+    <string name="mordebtn_regresar">regresar</string>
+    <string name="kennen_btn">kennen</string>
+    <string name="kled_btn">Kled</string>
+    <string name="kennen_frm">Kennen lore</string>
+    <string name="kennen_lore">Además de ser un rápido ejecutor del balance Jonio, Kennen es el único miembro yordle del Kinkou. A pesar de su pequeña y peluda estatura, está ansioso por enfrentarse a cualquier amenaza con una tormenta de Thundering Shuriken shuriken y desbordante entusiasmo. A lado de su maestro, ShenSquare Shen, Kennen patrulla el reino espiritual, utilizando devastadora Mark of the Storm energía eléctrica para eliminar a sus enemigos.</string>
+    <string name="kennen_regresar">regresar</string>
+    <string name="kled_frm">kled lore</string>
+    <string name="kled_lore">La primera historia conocida de Kled se remonta a la infancia del imperio y la Batalla de Drugne. En las colinas polvorientas de esas tierras baldías, la Primera Legión huía de una horda bárbara. Habiendo perdido las dos batallas anteriores, la moral de los hombres estaba baja, el ejército se había visto obligado a abandonar su tren de suministros en la ruta, y estaban a una semana de marcha desde el puesto de avanzada más cercano.</string>
+    <string name="kled_regresar">regresar</string>
+    <string name="acercade_btn">acerda de</string>
+    <string name="acd">app info</string>
+    <string name="info">este proyecto fue realizado por Rene Martinez Granados fue realizada en Android Studio todos los derechos reservados S.A. de C.V.</string>
+    <string name="btn_acercade">regresar</string>
+
+
+</resources>
